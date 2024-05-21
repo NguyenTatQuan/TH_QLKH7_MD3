@@ -1,6 +1,5 @@
 package org.example.th_qlks7_md3.controller;
 
-
 import org.example.th_qlks7_md3.model.Customer;
 import org.example.th_qlks7_md3.model.Province;
 import org.example.th_qlks7_md3.service.ICustomerService;
